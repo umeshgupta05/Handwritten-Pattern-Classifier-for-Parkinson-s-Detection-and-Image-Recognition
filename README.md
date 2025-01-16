@@ -1,0 +1,1 @@
+# Handwritten-Pattern-Classifier-for-Parkinson-s-Detection-and-Image-Recognition
